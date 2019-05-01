@@ -1,0 +1,25 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Kalam');
+
+
+body{ background-image:url('images/ff.png'); background-repeat:no-repeat;}
+body {text-align: left;} 
+body .center {font-family: "Kalam"; float: left; text-align: center; padding: 10em; width: 50%; border-radius: 25em; background-color: #4b90b8}
+body .center h1 {font-size: 64px;}
+
+.jumbotron {font-family: "Kalam"; background-color: hsl(209, 23%, 59%); padding: 1em;}
+.jumbotron h1 {font-size: 72px;}
+
+.main-section {text-align: center; background-color: rgb(31, 178, 236);}
+.select-section {text-align: center;}
+
+.add {text-align: left; font-family: "Kalam"; color: black;}
+.add h1 {font-family: "Amatic SC", cursive; color: black;}
+
+.select {text-align: left; font-family: "Kalam"; color: black;}
+.select h1 {font-family: "Amatic SC", cursive; color: black;}
+
+.delete {text-align: left; font-family: "Kalam"; color: black;}
+.delete h1 {font-family: "Amatic SC", cursive; color: black;}
+
+.update {text-align: left; font-family: "Kalam"; color: black;}
+.update h1 {font-family: "Amatic SC", cursive; color: black;}
